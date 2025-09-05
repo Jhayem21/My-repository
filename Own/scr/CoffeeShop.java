@@ -36,6 +36,7 @@ public class CoffeeShop {
                 running = false;
             } else {
                 System.out.println("Invalid choice. Please try again.");
+                
             }
         }
 
