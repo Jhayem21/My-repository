@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class CoffeeShop {
 
     // Define coffee menu and prices ff
+    //khjghg
     static String[] coffeeMenu = {"Espresso", "Cappuccino", "Latte", "Americano"};
     static double[] coffeePrices = {80.0, 100.0, 110.0, 90.0};
     static double totalSales = 0.0;
